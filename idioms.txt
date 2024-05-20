@@ -1,43 +1,42 @@
 IDIOMS
 ------
-
-0.Bite your tongue
-1.Smell a rat
-2.Let the cat out of the bag
-3.Spill the tea / Spill the beans
-4.a piece of cake / cakewalk
-5.under the weather
-6.flopping a dead horse
-7.buy a cow
-8.When in Rome.
-9.Break a leg
-10.Better late than never
-11.Costs an arm and a leg
-12.Bite the bullet
-13.between rock and a hard piece
-14.Cry over spilt milk
-15.Cutting Corners
-16.A Blessing in Disguise
-17.Break the ice
-18.Curiosity killed the cat
-19.went bananas
-20.Once in a blue moon
-21.Beat around the bush
-22.pretty penny
-23.cup of tea
-24.On top of the world
-25.Like riding a bicycle
-26.It's not rocket science
-27.It is always the darkest before dawn
-28.Pulling (someone's) leg
-29.Comparing apples to oranges
-30.When pigs fly
-31.dont know Jack's shit
-32.having a monkey on my back
-33.Rain cats and dogs
-34.have the balls in one's court
-35.Put all your eggs in one basket
-36.Until cows come home
-37.the elephant in the room
-38.on cloud nine
-39.
+ 
+1.	Bite your tongue
+2.	Smell a rat
+3.	Let the cat out of the bag
+4.	Spill the tea / Spill the beans
+5.	a piece of cake / cakewalk
+6.	under the weather
+7.	flopping a dead horse
+8.	buy a cow
+9.	When in Rome.
+10.	Break a leg
+11.	Better late than never
+12.	Costs an arm and a leg
+13.	Bite the bullet
+14.	between rock and a hard piece
+15.	Cry over spilt milk
+16.	Cutting Corners
+17.	A Blessing in Disguise
+18.	Break the ice
+19.	Curiosity killed the cat
+20.	went bananas
+21.	Once in a blue moon
+22.	Beat around the bush
+23.	pretty penny
+24.	cup of tea
+25.	On top of the world
+26.	Like riding a bicycle
+27.	It's not rocket science
+28.	It is always the darkest before dawn
+29.	Pulling (someone's) leg
+30.	Comparing apples to oranges
+31.	When pigs fly
+32.	don't know Jack's shit
+33.	having a monkey on my back
+34.	Rain cats and dogs
+35.	have the balls in one's court
+36.	Put all your eggs in one basket
+37.	Until cows come home
+38.	the elephant in the room
+39.	on cloud nine
