@@ -40,7 +40,7 @@ try :
 		pass
 
 	# final text into the file
-	text_into_file = book + " " +test + "\n"+ current_time_str + "\n \n" + Ltn_or_Rd+ "\n \n" + one_to_4ty
+	text_into_file = book + " -" +test + "\n"+ current_time_str + "\n \n" + Ltn_or_Rd+ "\n \n" + one_to_4ty
 	# print(text_into_file)
 
 	# gonna parse text into file
