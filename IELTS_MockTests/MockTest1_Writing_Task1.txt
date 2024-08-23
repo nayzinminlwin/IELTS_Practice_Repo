@@ -1,0 +1,42 @@
+MockTest 1 Writing
+
+Q : The graph below shows the population of India and China from the year 2000 to the present day with projections for growth to the year 2050.
+
+Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+
+
+My Answer: 
+
+The illustrated graph depicts the total population of India and China in billions from the start of 21st Century to half of it along with predictions. 
+
+As can be seen obviously, the population of India was rising year per year and it will do so in the coming years while China population will be dropping from current ammount. 
+
+To be precise, India had only 1000 billions of people in the start of 21st Century, the year of 2000 and China was comprising 1250 billions at the same time. But the rate of increasing in Indian population was quite significant as it only took 5 years to add nearly 100 billions of people while China took 10 years to increase the same amount. This mean that population in India was rocketing up to 1100 in 2005, almost 1200 billions in 2010,and so forth. In the mean time, China was having 1300 during 2005, 1350 during 2010, 1400 billions during 2015, and accordingly.
+
+The prediction of the graph point out that after 2025, China population will be flatten out and it will be the same with India in 2030, indicating below 1450 billions. Then the India population will surpass that of China and the downward trend of China population will begin afterward. The last result of the graph shows there will be less than 1400 billions people in China while India having 1600 billions.
+
+(233 words)
+============================================================================
+
+Evaluation checklist:
+Have you:
+Written at least 150 words?
+Included an overview of the information?
+Selected the most important information?
+Supported your points with examples and/or figures?
+Made effective comparisons using adverbs?
+Used linking words to connect your points?
+Organised key points into paragraphs?
+Checked for mistakes in grammar and spelling?
+
+Sample Answer :
+
+The graph gives information about population growth in China and India from the year 2000 with predicted changes to 2050.
+
+In 2000, China’s population stood at 1.25 billion and this number rose steadily to where it is currently at around 1.35 billion. It is projected to peak at 1.45 billion in 2025, when the number will level off and start to decline. It is expected that by 2050 the population will have dropped slightly to 1.4 billion.
+
+In contrast, although the population of India started at just one billion in 2000, it has increased rapidly to just under 1.25 billion today. The data indicate it will continue its upward surge, overtaking China in 2030 and reaching a peak of 1.6 billion by 2050.
+
+Overall, the major difference between the two population trends is that the number of people in China is forecast to start falling after 2030 whereas the population of India will continue to soar.
+
+(156 words)
