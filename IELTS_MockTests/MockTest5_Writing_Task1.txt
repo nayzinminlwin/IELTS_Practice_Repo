@@ -1,0 +1,116 @@
+IELTS Mock Test 5 - Writing
+Task 1
+Q : The chart below shows the average household spending pattern for households in three income categories as a proportion of their income.
+
+Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+
+------------------------------------------------------------------------------------------------
+
+Evaluation checklist
+Have you:
+Written at least 150 words?
+Included an overview of the information?
+Selected the most important information?
+Supported your points with examples and/or figures?
+Made effective comparisons using adverbs?
+Used linking words to connect your points?
+Organised key points into paragraphs?
+Checked for mistakes in grammar and spelling?
+-----------------------------------------------------------------
+Sample Answer of Examiner : 
+
+The bar chart shows how those on low, medium and high incomes spend their money. Both the differences and the similarities are striking.
+
+Housing costs consume almost a third of each group’s income and another 15-19% goes on transport. While the high income earners are able to put 17% towards their retirement, and the medium group 10%, those on low incomes invest only three per cent of their income in retirement funds.
+
+All categories spend a similar percentage of their income on clothing (around 6%), eating out (less than 5%), and entertainment (4-6%). The lowest income group spend a higher proportion on their health (8%), eating at home (12%) and paying for utilities (13%) but less on education, which stands at just three per cent compared with slightly more for the middle group and over five per cent for the wealthy.
+
+To sum up, each income group assigns by far the largest portion of their budget to housing and a large portion to transport. However, only the rich devote a significant share of their income to retirement savings. Poor families, on the other hand, spend more of their budget on the basic necessities.
+
+(193 words)
+
+==================================================================================================
+
+My Answer : 
+
+The illustrated bar-chart depicts the information on average budget usage of households on ten different sectors according to their income.
+
+Overall, it can be observed that every household use most of their income on housing while buget for education and eating out is lowest among every sector.
+
+To decipher precisely, households with low income, indicating 15 thousands to 25 thousands dollar and those with medium income, indicating 50 thousands to 75 thousands dollar used the same amount of budget on housing which is not more than 30% of their income, and families with high income presenting above 150 thousands dollar used just slightly fewer than the two former gorups. The sector which followed at the second place is the transport in which high income families spend 15% and the other two group spend almsot the same, 18%.
+
+Households with low income stand out in spending budget on food(at home) and utilites than any other households pointing around 13% of their income. In the meantime, households possessing high income were using more than 15% of their earing on Retirement savings,in which medium income families can preserve only 10% and low income families holding lower than 4%. Moreover the least budget sector, education, representing below 5% for the low and medium income families and high income families spending just above 5%.
+
+(219 words)
+==================================================================================================
+AI result :
+
+### Evaluation of Your Answer
+
+**Overall Band Score: 6.5**
+
+---
+
+### 1. **Coherence and Cohesion**: **6.5**
+
+- **✓** Structure your answers in logical paragraphs: Your paragraphs are clear, but the introduction is somewhat basic, and the overall structure could be slightly improved.
+- **✓** One main idea per paragraph: Each paragraph focuses on key data points, but the second paragraph includes several ideas that could be better separated.
+- **✓** Include an introduction and conclusion: The introduction is present, but the conclusion is missing, which weakens the overall cohesion.
+- **?** Support main points with an explanation and then an example: You provide explanations for most comparisons, but there could be more specific numerical examples to strengthen some points.
+- **✓** Use cohesive linking words accurately and appropriately: Good use of connectors such as "while," "in the meantime," and "moreover."
+- **✓** Vary your linking phrases using synonyms: You do attempt to vary them, but there's room to introduce more variety.
+
+---
+
+### 2. **Lexical Resource**: **6.5**
+
+- **?** Try to vary your vocabulary using accurate synonyms: Some words like "budget" and "income" are repeated. More synonyms could be used to improve lexical variety (e.g., "expenditure" instead of "budget").
+- **✓** Use less common question-specific words that accurately convey meaning: You use some topic-specific vocabulary such as "retirement savings," "utilities," and "households."
+- **?** Check your work for spelling and word formation mistakes: Some spelling mistakes like "utilites" (should be "utilities") and "almsot" (should be "almost") affect your score slightly.
+
+---
+
+### 3. **Grammatical Range and Accuracy**: **6.0**
+
+- **✓** Use a variety of complex and simple sentences: You use a range of complex sentence structures, though some could be clearer. For instance, "households with low income, indicating 15 thousands to 25 thousands dollar..." has a repetitive structure.
+- **?** Check your writing for errors: There are several grammar mistakes, such as "buget" (should be "budget"), "not more than 30%" (should be "nearly 30%"), and "in which high income families can preserve" (awkward phrasing; better to say "with high-income families allocating..."). Some article mistakes ("the medium income families" should be "medium-income families") also reduce the accuracy.
+
+---
+
+### 4. **Task Achievement**: **7.0**
+
+- **✓** Answer all parts of the question: You cover all required parts, including housing, transport, utilities, food, retirement savings, etc.
+- **✓** Present relevant ideas: Your answer presents relevant points and comparisons between different income levels.
+- **✓** Fully explain these ideas: Most of your explanations are clear, but some areas lack detailed analysis or examples (such as the differences in entertainment spending).
+- **?** Support ideas with relevant, specific examples: You do provide figures, but some points could be better supported with more precise numerical examples from the graph.
+
+---
+
+### **High-Band Vocabulary Suggestions**
+
+- Expenditure (instead of "budget")
+- Allocate (instead of "use")
+- Proportion (instead of "amount")
+- Disparity (to describe differences between income groups)
+- Investment (for retirement savings)
+- Substantial (instead of "more than")
+
+---
+
+### **Feedback and Suggestions for Improvement**
+
+1. **Introduction & Conclusion**: Your introduction is straightforward, but you need a conclusion to wrap up your main points and summarize the trends across all income levels.
+   - **Example**: "In conclusion, housing and transport consistently consume the largest portions of household budgets across all income levels, while only the highest income group makes substantial contributions to retirement savings."
+
+2. **Grammatical Range**: Improve your sentence clarity and grammatical accuracy by revising for common errors like articles and plural forms.
+   - **Example**: "Low-income households spend around 13% on food at home and utilities, which is notably higher than the other income groups."
+
+3. **Lexical Resource**: Aim to avoid repetition by using synonyms or more varied expressions.
+   - **Example**: Instead of "budget on housing," try "allocate their income towards housing expenditures."
+
+4. **More Specific Comparisons**: Use precise data points and comparisons, particularly for less-discussed categories like education or clothing.
+   - **Example**: "High-income families spend just over 5% on education, a slightly higher proportion compared to low and medium-income households."
+
+---
+
+By working on these areas, you could easily boost your score to a higher band level. Keep practicing!
