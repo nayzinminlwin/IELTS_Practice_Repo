@@ -1,0 +1,90 @@
+Camrbidge 19 - Writing 
+Task 1
+
+Q : The graph below gives information on the numbers of participants for different activities at one social centre in Melbourne, Australia for the period 2000 to 2020.
+
+Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+Write at least 150 words.
+
+============================================================================
+
+My Answer : 
+
+The illustrated graph delineates information about the participants count of various activites in a social centre situated in Melbourne, Australia during 2000 to 2020.
+
+At the overall first glance, it is evident that table tennis got siginificant increasement in demand among players whereas demand for amateur dramatics slumped during the years.
+
+To describe the information in details, the film club activity was the most popular one among participant and it remained the same throughout the whole research, indicating around 60 players. In 2000, 36 players comprise the martial arts of the centre and it also flacuate during the years till 2020, with almost no significant changes.
+
+In addition, the amateur dramatics activity composed of 25 participants in 2000, but after 2005, it collapse to below 10 participants in 2020.In the meantime, the number of table tennis players was only 15 in 2000 and it rose slightly in 2005 and stabalized for next 5 years, but it project to peak, surpassing both amateur dramatics and martial arts during 2010 to 2020, possessing more than 50 pariticipants at research end. Musical performance activities was only introduced in 2005, and it was showing much progress having 15 participants in 2020.
+
+(197 words)
+============================================================================
+
+GPT Feedback : 
+### Overall Band Score: **6.0**
+
+---
+
+### 1. **Coherence and Cohesion**: **6.0**
+
+- **✔** Structure your answers in logical paragraphs  
+- **✔** One main idea per paragraph  
+- **✔** Include an introduction and conclusion  
+- **?** Support main points with an explanation and then an example  
+- **✔** Use cohesive linking words accurately and appropriately  
+- **?** Vary your linking phrases using synonyms  
+
+The writing is generally cohesive and follows a clear structure with an introduction, body, and conclusion. However, the explanation of key points is sometimes unclear, and examples or further clarification would help improve this. Some paragraphs attempt to explain trends, but the connections could be stronger. More variation in linking words (e.g., instead of "in addition," try "furthermore" or "additionally") would improve fluency.
+
+---
+
+### 2. **Lexical Resource**: **6.0**
+
+- **?** Try to vary your vocabulary using accurate synonyms  
+- **✔** Use less common question-specific words that accurately convey meaning  
+- **✘** Check your work for spelling and word formation mistakes  
+
+The range of vocabulary is sufficient, and there are some attempts to use less common words like "delineates" and "fluctuate." However, there are some spelling and word choice mistakes such as "flacuate" (fluctuate), "collapses" (should be collapsed), "increasement" (should be increase), "siginificant," and "stabalized" (should be stabilized). These errors affect the clarity and overall impression.
+
+---
+
+### 3. **Grammatical Range**: **6.0**
+
+- **✔** Use a variety of complex and simple sentences  
+- **✘** Check your writing for errors  
+
+There is some grammatical range shown through the use of complex sentences, but there are several errors, such as:
+- "table tennis got siginificant increasement in demand" (should be "table tennis saw a significant increase in popularity").
+- "In 2000, 36 players comprise the martial arts of the centre" (should be "comprised the martial arts section").
+- "it collapse to below 10 participants" (should be "collapsed").
+
+Improving the accuracy of sentence structures would lead to a higher score.
+
+---
+
+### 4. **Task Achievement**: **6.0**
+
+- **✔** Answer all parts of the question  
+- **✔** Present relevant ideas  
+- **?** Fully explain these ideas  
+- **✔** Support ideas with relevant, specific examples  
+
+The task is generally fulfilled, with an attempt to summarize and highlight the key trends in the graph. However, the explanation of trends could be clearer, and more emphasis on the comparisons between activities would improve the answer. Some parts of the explanation lack precision, such as "it project to peak" and "showing much progress," which are vague.
+
+### Suggestions for Improvement:
+
+- **Clarity**: Improve clarity by ensuring sentences are grammatically correct and clear. For instance, "Table tennis saw a significant rise in the number of participants, surpassing other activities by 2020" is clearer than "it project to peak."
+  
+- **Examples**: Support your points with specific data. For example, "The number of film club participants remained stable, hovering around 60 throughout the entire period."
+
+- **Lexical Range**: Use varied synonyms for key words like "participants" (e.g., members, attendees). Additionally, try to replace repetitive phrases with more sophisticated alternatives.
+
+### High-Band Vocabulary:
+
+1. **Delineates** – describes clearly
+2. **Fluctuate** – to change or vary irregularly
+3. **Collapsed** – drastically decreased
+4. **Stabilized** – remained steady
+5. **Surpass** – exceed or go beyond
+6. **Peak** – reach the highest point  
