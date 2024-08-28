@@ -1,0 +1,97 @@
+Cambridge 19 - Test 2
+Writing - Task 1
+
+Q : 
+The plans below show a harbour in 2000 and how it looks today.
+
+Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+Write at least 150 words.
+============================================================================
+
+My Answer :
+
+The illustrated two maps compare the different features and improvement of Porth Harbour from 2000 to today.
+
+At the overall first glance, it is evident that one new dock, and area for cafes and shops was built additionally and the disused castle was renovated as a Hotel.
+
+To descibe in detail, a new dock was implement next to the old one and the area for private yachts area, Marina, and fishing boats area were switched. To the west of the today's Marina, a new showers and toilets facility was built beside the larger car park and car park's route is altered to enter from main road whereas the entrance was at the south road of it.
+
+On the south of the map, Cafes and shops section was established next to the lifeboat area, and the road is also entended to the new Hotel which is refurbrished the disused castle. And the beach, south-west to the hotel, was reserved as the private beach for the hotel guests, where it was public one before, available for every visitors.
+
+(176 words)
+===========================================================================
+
+GPT assessment: 
+
+### Overall Band Score: 6.5
+
+---
+
+### 1. **Coherence and Cohesion**: 6
+- Structure your answers in logical paragraphs: ✅
+- One main idea per paragraph: ✅
+- Include an introduction and conclusion: ✅
+- Support main points with an explanation and then an example: ❌ (Some points lack detail and specific examples)
+- Use cohesive linking words accurately and appropriately: ❌ (Some linking words are inaccurate)
+- Vary your linking phrases using synonyms: ❌ (Limited variation in linking words)
+
+Your response has a logical structure with a clear introduction and description of the key changes. However, you need more specific explanations and examples of these changes to enhance cohesion. There are also some inappropriate linking words, such as "and the area for cafes" (a better phrase could be "additionally, a section for cafés"). More varied connectors like "in contrast" or "similarly" would improve cohesion.
+
+**Suggestions**:
+- "Moreover, the road was extended to provide access to the newly renovated hotel."
+- "In addition, a private beach was created exclusively for hotel guests, unlike the previous public beach."
+
+---
+
+### 2. **Lexical Resource**: 6
+- Try to vary your vocabulary using accurate synonyms: ❌ (Limited variation of words)
+- Use less common question-specific words that accurately convey meaning: ✅
+- Check your work for spelling and word formation mistakes: ❌ (Several spelling issues)
+
+You use some relevant vocabulary such as "implemented," "renovated," and "refurbished." However, there are noticeable spelling and word choice issues ("descibe" should be "describe," "entended" should be "extended"). Vocabulary variation is also somewhat limited, with repeated words like "new."
+
+**Suggestions**:
+- Replace "new" with alternatives such as "additional" or "recent."
+- Vary your word choices by using synonyms, e.g., "construct" instead of "build."
+
+---
+
+### 3. **Grammatical Range and Accuracy**: 6
+- Use a variety of complex and simple sentences: ✅
+- Check your writing for errors: ❌ (Several grammatical and punctuation errors)
+
+You attempt a variety of sentence structures, but there are several errors in grammar and punctuation. For example, "and area for cafes and shops was built additionally" is missing an article and could be rewritten more smoothly. Some sentences are too long without appropriate punctuation, such as commas.
+
+**Suggestions**:
+- Instead of "and the area for cafes and shops was built additionally," try: "Additionally, a section for cafés and shops was constructed."
+- Improve punctuation: "To describe in detail, a new dock was implemented next to the old one, and the Marina and fishing boat areas were switched."
+
+---
+
+### 4. **Task Achievement**: 7
+- Answer all parts of the question: ✅
+- Present relevant ideas: ✅
+- Fully explain these ideas: ❌ (Some points lack detailed explanations)
+- Support ideas with relevant, specific examples: ❌
+
+You effectively describe the main changes, like the new dock, hotel, and private beach, but you need more detailed explanations. Additionally, you could improve by offering a more in-depth comparison between the two maps and including more precise details about the changes to the layout.
+
+**Suggestions**:
+- Instead of simply stating, "a new dock was implemented," provide more details such as: "A second dock was constructed, expanding the capacity for passenger ferries."
+- Add more comparison: "In contrast to 2000, when the beach was public, today's map shows that a portion of the beach has become private for hotel guests."
+
+---
+
+### High-Band Vocabulary:
+1. **Implemented** – put into effect or action.
+2. **Renovated** – restored or repaired to a better state.
+3. **Refurbished** – renewed or redecorated.
+4. **Exclusive** – limited to a particular group.
+5. **Altered** – changed or modified.
+6. **Establish** – set up or create something.
+7. **Switch** – exchange positions or places.
+
+---
+
+### Final Comments:
+To improve, focus on refining sentence structure and punctuation while varying your vocabulary. Adding more detail to your comparisons and examples will also enhance task achievement and coherence. Try using more synonyms for common words like "new" and linking words for better cohesion. Keep working on spelling and grammar accuracy for a higher band score.
