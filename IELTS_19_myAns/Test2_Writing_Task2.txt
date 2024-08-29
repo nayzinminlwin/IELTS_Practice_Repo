@@ -21,3 +21,78 @@ To conclude the opinions, short working weekdays and long weekends seems fancy a
 
 (360 words)
 ============================================================================
+GPT Assessment :
+
+### Overall Band Score: 6.0
+
+---
+
+### 1. **Coherence and Cohesion**: 6
+- Structure your answers in logical paragraphs: ✅
+- One main idea per paragraph: ✅
+- Include an introduction and conclusion: ✅
+- Support main points with an explanation and then an example: ❌ (Some points are underdeveloped)
+- Use cohesive linking words accurately and appropriately: ❌ (Some issues with linking words)
+- Vary your linking phrases using synonyms: ❌ (Limited variation in linking words)
+
+Your essay is organized logically with clear paragraphs and a well-structured introduction and conclusion. However, some points need more detailed explanations and examples. Additionally, there are some issues with transitions and linking words, such as "heard like a idea" (should be "sounds like a good idea") and "So employer or employee, weekdays or weekend, simply it do not matter" (which is awkwardly phrased). A better use of cohesive devices and smoother transitions would improve the flow.
+
+**Suggestions**:
+- Instead of "Extending the weekend heard like a idea," try: "Extending the weekend sounds appealing to most people."
+- Use more varied transitions: "Moreover," "In contrast," "As a result."
+
+---
+
+### 2. **Lexical Resource**: 6
+- Try to vary your vocabulary using accurate synonyms: ❌ (Repetition of certain words, e.g., "weekend," "people")
+- Use less common question-specific words that accurately convey meaning: ✅
+- Check your work for spelling and word formation mistakes: ❌ (Several errors)
+
+There are some good uses of vocabulary like "rat race," "mental health," and "boost productivity," but many common words such as "weekend" and "people" are overused. There are also several spelling and word formation mistakes, such as "circile" instead of "circle" and "decling" instead of "declining."
+
+**Suggestions**:
+- Use synonyms like "individuals" for "people" or "workweek" for "weekdays."
+- Replace "weekend days" with "additional days off."
+- Focus on checking spelling and using accurate word forms.
+
+---
+
+### 3. **Grammatical Range and Accuracy**: 5
+- Use a variety of complex and simple sentences: ✅
+- Check your writing for errors: ❌ (Frequent grammatical errors)
+
+Your essay includes some complex sentences, but there are frequent grammatical mistakes that reduce clarity. Issues such as subject-verb agreement ("majority of the people spend" should be "the majority of people spends") and article usage ("heard like a idea" should be "sounds like an idea") are present. There are also awkward sentence structures, such as "the issue indicate that the Japanese people are extremely overworking" (should be "the issue indicates that the Japanese are overworked").
+
+**Suggestions**:
+- Correct article usage: "Extending the weekend sounds like a great idea."
+- Pay attention to subject-verb agreement: "The majority of people spends" should be "spend."
+
+---
+
+### 4. **Task Achievement**: 7
+- Answer all parts of the question: ✅
+- Present relevant ideas: ✅
+- Fully explain these ideas: ❌ (Some ideas are underdeveloped)
+- Support ideas with relevant, specific examples: ❌
+
+You address the task and offer reasons for both sides of the argument, which is good. However, some of your points need further development. For example, the Japanese example is interesting, but you do not explain clearly how it supports the argument for a shorter workweek. Similarly, the point about people who prefer to work longer hours for financial reasons could be expanded with more details or examples.
+
+**Suggestions**:
+- Expand on the Japanese example: "In countries like Japan, where overworking has led to a decline in birth rates and mental health issues, a shorter workweek could alleviate these problems."
+- Provide a clearer example of the people who need to work overtime: "For example, single parents may prefer longer hours to secure a better future for their children."
+
+---
+
+### High-Band Vocabulary:
+1. **Rat race** – a competitive struggle for success.
+2. **Productivity** – the effectiveness of productive effort.
+3. **Overwork** – work too much or too hard.
+4. **Mental health** – a person's emotional and psychological well-being.
+5. **Boost** – increase or improve something.
+6. **Leisure** – free time, relaxation.
+7. **Overtime** – working hours beyond the normal schedule.
+
+---
+
+### Final Comments:
+To improve, you should focus on developing your ideas more fully and supporting them with detailed examples. Additionally, work on grammar, especially subject-verb agreement, article use, and punctuation. Expand your range of vocabulary and avoid repetition to make your essay more sophisticated. Using more advanced sentence structures and avoiding simple grammatical errors will help you achieve a higher score.

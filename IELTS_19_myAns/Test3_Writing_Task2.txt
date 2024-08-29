@@ -1,0 +1,96 @@
+Cambridge 19 - Test 3
+Writing - Task 2
+
+Q: 
+It is important for everyone, including young people, to save money for their future.
+To what extend do you agree or disagree with this statement ?
+
+Give reasons for your answer and include any relevant exmaples from your own experience or knowledge.
+Write at least 250 words.
+============================================================================
+
+My Answer: 
+
+As we are living in a swiftly developing and highly competitive world, money play an fatal role in our lives as everyone are working very hard for that. Along with earning money, we are in need of strategies to save or even multiply it for better future. But there are belives that saving is better for every age, young or old while somes argue.
+
+To achieve the financial freedom, experts say, 'first step is to start saving your money.' So it cannot be wrong to save our money. Saving it give us a secure future without help from other people or even our own bloodline. Most adults save money than youths as they feel they do not have less time to work and they want to take a rest when they cannot work anymore. However, in this competitive era, we can also encounter young people saving their money, some are doing for the sake of achievements,especially goals achieveable in short period of time, like a branded shoe, or a gadget, whereas there hides the youths with better insights, for instance, to pursue thier hobby by their own, to establish a company of something they would like to do in mass measure, and so forth. As the wise men say, 'Being late is better than never.', we should do what we should be doing in the meantime. Right ?
+
+On the other hand, we got people holding a very popular practice, 'YOLO, you only live once.'. They belive those saving will not follow them to the grave. In fact, they are not wrong though. But instead of wasting them on unnecessary luxry products under YOLO title, we should be doing a better approach than saving, investing. Experts quote, "The second step of financial freedom is multiplying your money.", in which they mean multiplying by acquiring passive incomes. Significant amount of people are investing nowadays rather than just saving. Youths are fond of investing as it can give them thrills like gambling, while elderly people are afraid of investing in the wrong hand. But educated investments can lead us to ultimate victory which is immersely abundant than our life savings.
+
+To conlcude the opinions and examples, I belive we should be doing what we are suppose to do, like saving and investing, no matter young or old, rather than living a meaningless life without a purpose.
+
+(394 words)
+============================================================================
+GPT prompt :
+
+### Overall Band Score: 5.5
+
+---
+
+### 1. **Coherence and Cohesion**: 5
+- Structure your answers in logical paragraphs: ❌ (Paragraphs are not clearly defined)
+- One main idea per paragraph: ❌ (Multiple ideas in some paragraphs)
+- Include an introduction and conclusion: ✅
+- Support main points with an explanation and then an example: ❌ (Some points lack proper development)
+- Use cohesive linking words accurately and appropriately: ❌ (Linking words are used awkwardly)
+- Vary your linking phrases using synonyms: ❌
+
+Your answer lacks a clear structure. Ideas are scattered, and paragraphs often mix different points. For example, the first paragraph introduces both saving and investing, which could be separated. Some linking phrases are awkward, like "But there are belives that" (should be "some believe that") and "In fact, they are not wrong though" (this phrase feels redundant).
+
+**Suggestions**:
+- Structure the essay clearly with an introduction, body paragraphs, and a conclusion.
+- Use more appropriate linking words like "However," "On the contrary," or "In contrast" to guide the reader through your ideas.
+  
+---
+
+### 2. **Lexical Resource**: 6
+- Try to vary your vocabulary using accurate synonyms: ❌
+- Use less common question-specific words that accurately convey meaning: ✅
+- Check your work for spelling and word formation mistakes: ❌ (Several spelling errors)
+
+You use some advanced vocabulary such as "financial freedom," "multiply," and "passive income." However, there are numerous spelling mistakes like "belives" (should be "believes"), "luxry" (should be "luxury"), "thier" (should be "their"), "conlcude" (should be "conclude"). You could also vary your synonyms more frequently instead of repeating similar words like "save" and "saving."
+
+**Suggestions**:
+- Improve spelling accuracy by proofreading your work.
+- Use synonyms to avoid repetition, such as "accumulate" instead of "save" or "wealth" instead of "money."
+
+---
+
+### 3. **Grammatical Range and Accuracy**: 5
+- Use a variety of complex and simple sentences: ✅
+- Check your writing for errors: ❌ (Frequent errors in grammar and sentence structure)
+
+There are a number of grammatical errors that detract from the clarity of your writing. For instance, "money play an fatal role" should be "money plays a fatal role," and "everyone are working" should be "everyone is working." There are also awkward sentences like "But there are belives that saving is better for every age, young or old while somes argue."
+
+**Suggestions**:
+- Review subject-verb agreement: "Money plays" instead of "Money play."
+- Simplify sentences to avoid awkward phrasing: "Some people believe saving is beneficial at any age."
+
+---
+
+### 4. **Task Achievement**: 6
+- Answer all parts of the question: ✅
+- Present relevant ideas: ✅
+- Fully explain these ideas: ❌
+- Support ideas with relevant, specific examples: ❌
+
+You address the prompt and cover both sides of the argument about saving and investing. However, your ideas need more development. For example, the difference between saving and investing could be expanded, and more real-life examples would strengthen your argument. Some points are also repetitive, such as your discussion of "YOLO" and "passive income."
+
+**Suggestions**:
+- Add more specific examples to support your arguments, such as examples of successful saving or investment practices.
+- Avoid repetition by clearly distinguishing between different ideas.
+
+---
+
+### High-Band Vocabulary:
+1. **Financial freedom** – the ability to live without being dependent on a salary or paycheck.
+2. **Passive income** – money earned with minimal effort, such as from investments.
+3. **Invest** – putting money into financial schemes with the expectation of a profit.
+4. **Luxuries** – items not necessary for survival but purchased for comfort or pleasure.
+5. **Multiply** – to increase or grow in quantity, especially in relation to money or investments.
+6. **YOLO (You Only Live Once)** – a popular mindset emphasizing living in the present rather than focusing on future concerns.
+
+---
+
+### Final Comments:
+Your essay presents a valid argument but lacks clarity due to issues with structure, grammar, and spelling. To improve, focus on organizing your ideas into clear paragraphs, fixing grammatical mistakes, and providing more detailed examples to strengthen your points. A more thorough review of vocabulary and spelling would also enhance the readability of your essay.
