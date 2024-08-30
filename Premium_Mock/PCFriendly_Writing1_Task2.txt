@@ -1,0 +1,83 @@
+IELTS Premium Computer Friendly Test 1
+Writing - Task 2
+
+Q : 
+Some people argue that all experimentation on animals is bad and should be outlawed.
+However, others believe that important scientific discoveries can be made from animal experiments.
+Can experimentation on animals be justified? Are there any alternatives?
+
+============================================================================================================================================================
+
+My Answer :
+
+As we are living in a swift developing world, we are trying everything to go forward, adapt, and evolve. In which, we are sacrificing some animals along our way for the sake of human evolution, it went the same way during the previous eras, and it will do so. These days significant amount of people are considering rights for not only humans but also animals and plants. They believe experimentation on animals should be condemned and even restrict with laws, while others argue, without those experiments, scientific discoveries cannot be accomplished.
+
+To discuss about the justification, I would like to point out the fact that the universe is built that way. How it is built ? In Islamic belief, the god announced that he had made animals and send them to earth prior human existance for the sake of help to human race. And every human practiced exactly. So we cannot depart ourselves from applicating animals nor consumption. Thus, experiments on animals is acceptable if it is done for the good of people and society. Nonetheless, we should not encourage evil usage of such experiments like for weaponary, distruction, rivalry, and so forth. Those are the acts that actually deserve criticization and even legal regislations.
+
+But we should not stay the same way in the future. We should be looking for better alternatives to such experiments in show of mercy and love to animals. Till today, even with immense technology advances, we still cannot find any alternatives to animals for experiments. Although, we are seeing significant approaches to such experiments and we are already implementing them in some products like cosmetics, and acessories, labeling , 'Animal curelty free product.' On the other hand, we still have medical issues that we cannot refuse to test with animals. But with the help of technology, we can now calculate more precisely to make these experiments short in period and achieve the desire goal with less frequent tests in which animals suffer less than experiments in previous ages.
+
+To conclude, we should try our best to save animals from cruelty and experiments by supporting products that practice 'cruelty free' policy, while condemning products with unnecessary animals body parts like purse, coats and leather, instead of complaining medical experiments.
+
+(374 words)
+============================================================================================================================================================
+
+GPT Assessment :
+
+### Overall Band Score: 5.5
+
+### Coherence and Cohesion: 5.5
+- **Structure your answers in logical paragraphs**: ✔️
+- **One main idea per paragraph**: ❌ Some paragraphs contain multiple ideas that aren't fully developed.
+- **Include an introduction and conclusion**: ✔️
+- **Support main points with an explanation and then an example**: ❌ Many points are not supported with sufficient explanation or relevant examples.
+- **Use cohesive linking words accurately and appropriately**: ✔️ Some linking words are used, but there is room for improvement in variety and placement.
+- **Vary your linking phrases using synonyms**: ❌ Linking words such as "thus" and "nonetheless" are used, but the essay lacks sufficient variation.
+
+The ideas are somewhat coherent, but the development of ideas is unclear in certain sections. While the introduction and conclusion are present, the body paragraphs lack clear transitions between ideas and adequate explanation for the points made.
+
+### Lexical Resource: 5.5
+- **Try to vary your vocabulary using accurate synonyms**: ❌ Many words are repeated (e.g., "experiments," "animals"). Synonyms like "research," "trials," "creatures," or "species" could be used.
+- **Use less common question-specific words that accurately convey meaning**: ❌ Phrases like "the universe is built that way" and "human evolution" are vague and don't show strong lexical range.
+- **Check your work for spelling and word formation mistakes**: ❌ There are several spelling and word formation errors such as "existance" (should be "existence"), "regislations" (should be "regulations"), "weaponary" (should be "weaponry"), and "curelty" (should be "cruelty").
+
+While some topic-specific words are used (e.g., "experiments," "discovery"), there is an overreliance on basic vocabulary, and there are frequent errors in spelling and word formation.
+
+### Grammatical Range and Accuracy: 5.0
+- **Use a variety of complex and simple sentences**: ❌ While there are some attempts at complex sentences, many are awkward or unclear. For example, "In Islamic belief, the god announced that he had made animals and send them to earth" contains grammatical issues.
+- **Check your writing for errors**: ❌ There are numerous grammatical mistakes throughout the essay, such as verb agreement ("send" should be "sent"), awkward sentence constructions ("we are trying everything to go forward"), and incorrect prepositions ("in show of mercy").
+
+The range of sentence structures is limited, and the frequent grammatical mistakes impact the clarity of the writing.
+
+### Task Achievement: 6.0
+- **Answer all parts of the question**: ✔️
+- **Present relevant ideas**: ✔️
+- **Fully explain these ideas**: ❌ The ideas are presented but not fully explained, and there is a lack of clear, specific examples. 
+- **Support ideas with relevant, specific examples**: ❌ The essay lacks specific examples, particularly in the discussion of alternatives to animal testing.
+
+The essay addresses both questions (justification and alternatives) but does so in a vague and underdeveloped manner. The arguments could be stronger with more detailed explanations and specific examples to support the points.
+
+---
+
+### Suggestions for Improvement:
+1. **Develop ideas more clearly**: Rather than simply stating that experiments can be justified, provide specific reasons and examples.
+   - *Example*: "Animal experimentation can be justified in cases where it leads to life-saving medical treatments, such as vaccines and cancer therapies."
+
+2. **Strengthen your vocabulary**: Avoid repeating the same words, and try to use more precise and sophisticated terms.
+   - *Example*: Instead of "animals," you could use "test subjects" or "living organisms" when discussing research.
+
+3. **Avoid vague or informal expressions**: Sentences like "the universe is built that way" and "for the sake of help to the human race" should be replaced with more formal, specific language.
+   - *Example*: "Historically, humans have used animals in research to gain insights into biological processes and improve medical care."
+
+4. **Expand your examples**: When discussing alternatives, provide specific details on existing technologies or methods.
+   - *Example*: "Modern technologies like computer simulations and tissue engineering are emerging as alternatives to animal testing, allowing scientists to conduct research without harming living creatures."
+
+---
+
+### High-band Vocabulary:
+- **Ethical considerations**
+- **Biomedical research**
+- **Alternative methods**
+- **Regulatory frameworks**
+- **Cruelty-free products**
+
+Improving clarity, vocabulary, and grammatical accuracy, along with more specific examples, will help you achieve a higher band score.

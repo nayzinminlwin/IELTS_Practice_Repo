@@ -1,0 +1,80 @@
+IELTS Premium Computer Friendly Test 1
+Writing - Task 1
+
+Q :
+The table below shows how the UK unemployed spent their time last year.
+
+Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+
+============================================================================================================================================================
+
+My Answer :
+
+The illustrated table enumerates the percentages of time spent on activities by UK unemployed in the most recent year.
+
+At the overall first glance, it is evident that most of the jobless men spent their time on Job hunting in the morning and watching TV during afternoon, while women were doing houseworks the whole time.
+
+To present in detail, unemployed men used 22% of their morning period on job hunting, 20% on shopping and 19% on houseworks, whereas 3% was spent for nothing and only 2% of time was used for drinking. In the meantime, women without employment spend almost 50% of their mornings on houseworks, 26% for shopping, and only 16% for searching jobs as they rarely spend their time on drinking and playing sports indicating just 1% respectively. Unlike men, they spent 9% of their mornings for nothing,sitting around.
+
+In the afternoon, men used their 14% of time on watching Television and gardening, and they also used 12% of it for visiting friends or relatives and they still used that same amount job hunting. Uncommon activites for unemployed men in the afternoons include staying in bed, visiting town, and drinking which only used 1 to 3%. But women literally do not stay in bed nor play any kind of sports in the evening, and it is also very rare they drink in the period. They spend most of their time doing houseworks, indicating 21%, shopping and visiting friends or relatives, indicating 17% respectively.
+
+(245 words)
+
+============================================================================================================================================================
+GPT Assessment :
+
+### Overall Band Score: 6.5
+
+### Coherence and Cohesion: 6.5
+- **Structure your answers in logical paragraphs**: ✔️
+- **One main idea per paragraph**: ✔️
+- **Include an introduction and conclusion**: ✔️
+- **Support main points with an explanation and then an example**: ❓ Some explanations could be more precise, and a few details lack proper elaboration. 
+- **Use cohesive linking words accurately and appropriately**: ✔️
+- **Vary your linking phrases using synonyms**: ❌ More variation in linking words would enhance the flow of ideas.
+
+The structure is clear, with a logical division between morning and afternoon activities, but the essay lacks sufficient depth in some areas. While there is an introduction, a more comprehensive conclusion would strengthen coherence. Also, the use of cohesive devices is basic and could benefit from more variety to improve flow.
+
+### Lexical Resource: 6.5
+- **Try to vary your vocabulary using accurate synonyms**: ❌ More variation is needed to avoid repetition (e.g., the use of "housework" and "job hunting" could be substituted with synonyms like "domestic tasks" or "seeking employment").
+- **Use less common question-specific words that accurately convey meaning**: ❓ Some uncommon vocabulary is used, but more sophistication is required for a higher score.
+- **Check your work for spelling and word formation mistakes**: ✔️ No significant spelling errors, but small inconsistencies such as “houseworks” (which should be "housework").
+
+There is some use of topic-specific words, but further expansion of lexical resources and avoiding repetition would be beneficial.
+
+### Grammatical Range and Accuracy: 6.0
+- **Use a variety of complex and simple sentences**: ✔️ There are some complex sentences, but more variety in sentence structures is necessary.
+- **Check your writing for errors**: ❌ There are some grammatical mistakes, such as "houseworks" (should be "housework") and "the whole time" (better phrasing would be "throughout the day"). The phrase "they still used that same amount job hunting" could be reworded for clarity.
+
+The grammar is generally understandable, but there are some issues with sentence structure and word choices, which prevent it from reaching a higher score.
+
+### Task Achievement: 7.0
+- **Answer all parts of the question**: ✔️
+- **Present relevant ideas**: ✔️
+- **Fully explain these ideas**: ❓ Some ideas are underdeveloped (e.g., comparisons between men and women in various activities could be clearer).
+- **Support ideas with relevant, specific examples**: ✔️
+
+The essay adequately summarizes the data, highlighting key trends and making some comparisons. However, a more balanced comparison between men and women in each time period would have improved the task achievement.
+
+---
+
+### Suggestions for Improvement:
+1. **Expand on comparisons**: For example, instead of simply stating that men and women spent different amounts of time on housework and job hunting, explain why this difference is significant.
+   - *Example*: "It is noteworthy that women spent significantly more time on housework in both the morning and afternoon compared to men, which may reflect traditional gender roles in household tasks."
+  
+2. **Vary sentence structures**: Using more complex structures will enhance grammatical range.
+   - *Example*: "While men were more likely to spend their mornings job hunting, women focused predominantly on housework, with nearly half of their time devoted to domestic tasks."
+
+3. **Develop a conclusion**: Summarize the key findings from the table and the most significant differences between men and women.
+   - *Example*: "In conclusion, the table shows clear differences between how unemployed men and women spend their time, particularly with women focusing on household tasks and men balancing job hunting with other activities."
+
+---
+
+### High-band Vocabulary:
+- **Domestic tasks** (instead of "housework")
+- **Seek employment** (instead of "job hunting")
+- **Leisure activities** (for activities such as watching TV or visiting friends)
+- **Gender roles**
+- **Allocate time**
+
+By incorporating these suggestions and using more varied vocabulary and sentence structures, your writing could reach a higher band score.
