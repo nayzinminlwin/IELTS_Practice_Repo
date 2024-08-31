@@ -19,3 +19,85 @@ To describe the information of location in detail, almost half, 48% of the dance
 The research indicate two age types which is under 11 and age ranging 11 to 16, and three dance groups, Ballet, Tap Dance, and Modern dances. In which, 600 students of former group show interest on Ballet dance, but only half of that count from elder group do the same. In contrast, there are only 300 participants of first group in Modern dance classes while 500 of elder students group are committing to it. Tap dance is shown no signigicant gap in preferance from all students indicating between 400 to 500 classmates.
 
 (204 words)
+=========================================================================
+
+GPT Assessment :
+
+### Overall Band Score: 6.0
+
+---
+
+### 1. Task Achievement: 6.0  
+- Summarize the main features: ✔️  
+- Highlight key comparisons: ✔️  
+- Report data accurately: ❌ (Minor inaccuracies)  
+- Word count: ✔️ (204 words)
+
+**Analysis**:  
+You have included an overview and summarized the main features of both the location of dance classes and the age groups' participation. However, there are a few inaccuracies. For instance, you stated, "students under age of 11 prefer ballet dance," but the chart shows that they *attend* ballet classes more frequently, which is not the same as *preferring*. Additionally, "Modern dance classes are mostly occupied by elder students" is misleading since the bar chart shows significant participation from both age groups. 
+
+**Suggestions for improvement**:  
+- Ensure that your comparisons reflect what is represented in the charts accurately.  
+- Example: "Students under 11 have the highest participation in ballet, while modern dance attracts more students aged 11 to 16."
+
+---
+
+### 2. Coherence and Cohesion: 6.0  
+- Structure your answers in logical paragraphs: ✔️  
+- Include an introduction and overview: ✔️  
+- Use linking words accurately: ❌  
+- Organize information logically: ✔️
+
+**Analysis**:  
+Your response is organized into clear paragraphs, with an introduction, overview, and description of both charts. However, some transitions and linking words are awkwardly used, which affects the flow of the essay (e.g., "To describe the information of location in detail" and "The research indicate"). Additionally, some parts of the essay are unclear, such as "indicating between 400 to 500 classmates," which could be phrased more precisely.
+
+**Suggestions for improvement**:  
+- Improve the clarity of transitions between sentences and ideas.  
+- Example: "Regarding the location of dance classes, nearly half are held in private studios, while school halls account for a quarter."
+
+---
+
+### 3. Lexical Resource: 6.0  
+- Use a range of vocabulary: ✔️  
+- Use accurate vocabulary: ❌  
+- Avoid repetition: ✔️  
+- Check spelling and word formation: ❌  
+
+**Analysis**:  
+You use a reasonable range of vocabulary to describe the charts, but there are errors in word choice and spelling. For example, "signigicant" should be "significant," and "preferance" should be "preference." Additionally, some phrasing is unclear or awkward (e.g., "The research indicate" should be "The research indicates").
+
+**Suggestions for improvement**:  
+- Double-check for spelling and word choice errors.  
+- Example: "Participation in tap dance classes shows no significant difference between the two age groups, with numbers ranging from 400 to 500."
+
+---
+
+### 4. Grammatical Range and Accuracy: 5.5  
+- Use a variety of sentence structures: ✔️  
+- Check for grammatical accuracy: ❌  
+- Avoid repetition of structures: ✔️  
+
+**Analysis**:  
+You use a mix of sentence types, but there are several grammatical mistakes that reduce clarity. For instance, "research indicate" should be "research indicates," and "students under age of 11" should be "students under the age of 11." Articles are also missing in places, such as "In which, 600 students of former group show interest on Ballet dance" (should be "in the ballet dance").  
+
+**Suggestions for improvement**:  
+- Focus on subject-verb agreement and article use.  
+- Example: "The study indicates that 600 students in the under-11 group attend ballet classes, while only 300 from the same group participate in modern dance."
+
+---
+
+### High-Band Vocabulary:
+1. Established  
+2. Participate  
+3. Occupied  
+4. Allocation  
+5. Indicating  
+6. Preferences  
+7. Commitment  
+8. Significant  
+9. Elder  
+10. Comparison  
+
+---
+
+By improving the accuracy of your descriptions, using more precise vocabulary, and avoiding grammatical errors, you can achieve a higher band score.
