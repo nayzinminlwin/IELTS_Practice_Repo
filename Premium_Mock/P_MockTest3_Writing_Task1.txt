@@ -1,0 +1,96 @@
+IELTS Mock Test 3
+Writing - Task 1
+
+Q:
+
+The bar chart below shows estimated world illiteracy rates by region and by gender for the last year.
+
+Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+=========
+
+The illustrated bar chart depicts the percentage of estimated world illiteracy rates of males and females in 6 different regions during the most recent year.
+
+At the overall first glance, it is evident that most people living in South Asia are not literates while civilians of developed countries show near zero percentage of illiterates.
+
+To describe in detail, illiterates are mostly females in South Asia region indicating almost 60% of the people in which illiterate men are near 35%. Moreover, the Arab States comprise around 50% of uneducated women and 30% of such women. In contrast, there are more illiterate men in Sub-Saharan Africa than Arab but lesser women, presenting 30% - 48% ratio in men and women.
+
+The illiterate rates slump significantly in East Asia/ Oceania, Latin America/ Caribbean and Developed Countries. Oceanian people include 20% of men and 8% women without education in literature. In the meantime, females in Caribbean region are more educated than Oceania, describing around 10% for both male and female. Finally, people in developed Countries are mostly educated, pointing at below 3% of illiterates both men and women.
+
+(184 words)
+===========================================================================================
+GPT Assessment :
+
+### Overall Band Score: 6.0
+
+### 1. **Coherence and Cohesion: 6.0**
+   - ✔ Structure your answers in logical paragraphs
+   - ✔ One main idea per paragraph
+   - ✔ Include an introduction and conclusion
+   - ? Support main points with an explanation and then an example
+   - ✔ Use cohesive linking words accurately and appropriately
+   - ? Vary your linking phrases using synonyms
+
+**Comments:**
+The response is organized logically, with clear paragraphs describing the data for each region. However, more detailed comparisons and specific examples (such as mentioning more differences between the regions or linking gender and region more explicitly) would strengthen the response. Cohesive devices like "In contrast," "Moreover," and "Finally" are used correctly, but there's room to vary them more.
+
+**Suggestions:**
+- Add more variety to your linking phrases, such as "on the other hand," "similarly," or "conversely."
+- Example: "In addition, illiteracy rates in Latin America and the Caribbean are relatively low compared to South Asia."
+
+---
+
+### 2. **Lexical Resource: 6.0**
+   - ✔ Try to vary your vocabulary using accurate synonyms
+   - ? Use less common question-specific words that accurately convey meaning
+   - ✔ Check your work for spelling and word formation mistakes
+
+**Comments:**
+The vocabulary used is generally appropriate, but there is repetition of certain words, such as "illiterate" and "people." Also, some phrases are awkward or unclear, such as "people in which illiterate men" and "in literature," which is not the most suitable phrasing. More precise vocabulary and varied synonyms could improve this score.
+
+**Suggestions:**
+- Replace repetitive words with synonyms: "uneducated," "without formal education," "non-literate."
+- Example: "The South Asian region exhibits the highest proportion of non-literate individuals, especially among women."
+
+---
+
+### 3. **Grammatical Range and Accuracy: 6.0**
+   - ✔ Use a variety of complex and simple sentences
+   - ✘ Check your writing for errors
+
+**Comments:**
+You have demonstrated a variety of sentence structures, but some grammatical errors affect clarity, such as "indicating almost 60% of the people in which illiterate men are near 35%" and "there are more illiterate men in Sub-Saharan Africa than Arab." These errors stem from awkward phrasing and incorrect use of prepositions or conjunctions.
+
+**Suggestions:**
+- Simplify sentence structures to avoid confusion and use prepositions and conjunctions more accurately.
+- Example: "In South Asia, nearly 60% of women and 35% of men are estimated to be illiterate."
+
+---
+
+### 4. **Task Achievement: 6.5**
+   - ✔ Answer all parts of the question
+   - ✔ Present relevant ideas
+   - ✔ Fully explain these ideas
+   - ✔ Make comparisons where relevant
+
+**Comments:**
+Your response covers the main features of the chart, and appropriate comparisons are made between different regions and genders. However, more specific comparisons and elaboration would enhance the response, particularly between regions like Sub-Saharan Africa and the Arab States.
+
+**Suggestions:**
+- Highlight more specific comparisons and trends. For example, you could compare regions with similar illiteracy rates but different gender disparities.
+- Example: "While both Sub-Saharan Africa and the Arab States have high illiteracy rates, the gender gap is more pronounced in the Arab States."
+
+---
+
+### High-Band Vocabulary:
+1. Gender disparity
+2. Non-literate
+3. Proportion of illiterates
+4. Developed vs. developing regions
+5. Pronounced difference
+6. Significant gap
+7. Estimated rates
+8. Uneducated individuals
+9. Educational attainment
+10. Literacy levels
+
+To improve your score, focus on refining your sentence structure, adding more variety to your vocabulary, and making more detailed comparisons between the regions and genders in the bar chart.
