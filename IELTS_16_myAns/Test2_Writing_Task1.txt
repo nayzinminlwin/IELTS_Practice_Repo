@@ -1,0 +1,80 @@
+Cambridge 16 - Test 2
+Writing - Task 1
+
+Q:
+The diagram below shows the manufacturing process for making sugar from sugar cane.
+
+Summarise the information by selecting and reporing the main features, and mak comparisons where relevant.
+
+Write at least 150 words.
+
+===================================================================
+
+My Answer :
+
+The illustrated diagram describes the process of sugar production, starting from sugar cane.
+
+At the overall first glance, it is evident that the procedure include 7 steps to form consumeable sugar from sugar canes which include functions like growing, harvesting, processing, and refining.
+
+First of all, it took 12 to 18 months for a sugar cane to fully grown for harvesting. During the second stage, the mature sugar canes are harvested by farmers or with the help of huge tractors. Then the plant is crushed by a specific vending machine to produce sugar juice.
+
+Now it come to processing, fourth stage is purifying the juice using limestone filter which will be heated in large evaportors to become syrup in next stage. Latter the stage, the sugar syrup is passed to a machine called centrifuge in order to seperate the sugar crystals from syrup. After then, the product is dried and cooled as the last step, manufacturing the sugar we eat everyday.
+
+(161 words)
+===================================================================
+GPT Assessment :
+
+### Overall Band Score: 6.5
+
+#### Coherence and Cohesion: 7.0
+- **Structure your answers in logical paragraphs**: ✔  
+- **One main idea per paragraph**: ✔  
+- **Include an introduction and conclusion**: ?  
+- **Support main points with an explanation and then an example**: ✘  
+- **Use cohesive linking words accurately and appropriately**: ✔  
+- **Vary your linking phrases using synonyms**: ?  
+
+Your response is generally well-organized, with a clear description of each step in the process. The introduction and body are clear, but there is no real conclusion summarizing the process. Cohesive devices like "first of all," "then," and "after" are appropriately used but could be improved by using a greater variety of linking phrases like "following this" or "subsequently" to avoid repetition.
+
+#### Lexical Resource: 6.5
+- **Try to vary your vocabulary using accurate synonyms**: ?  
+- **Use less common question-specific words that accurately convey meaning**: ✔  
+- **Check your work for spelling and word formation mistakes**: ✘  
+
+Your vocabulary is generally adequate for this task, but there are several minor spelling and word-choice issues. For example, "consumeable" should be "consumable," "come" should be "comes," "evaportors" should be "evaporators," and "seperate" should be "separate." Using synonyms for "sugar juice" and "sugar syrup" would add variety. Overall, the vocabulary could be more varied.
+
+#### Grammatical Range and Accuracy: 6.0
+- **Use a variety of complex and simple sentences**: ?  
+- **Check your writing for errors**: ✘  
+
+There is a mix of sentence structures, but several grammatical mistakes lower the score. For instance, "it took 12 to 18 months for a sugar cane to fully grown" should be "it takes 12 to 18 months for sugar cane to fully grow." Additionally, "latter the stage" is incorrect and should be something like "in the next stage." There are some awkward constructions that could be smoothed out with clearer grammar.
+
+#### Task Achievement: 7.0
+- **Answer all parts of the question**: ✔  
+- **Present relevant ideas**: ✔  
+- **Fully explain these ideas**: ✔  
+- **Support ideas with relevant, specific examples**: ?  
+
+You have addressed the task by describing the process step by step, but a more thorough explanation of each stage (e.g., "the process from raw sugar cane to consumable sugar") could be included for a higher score. A conclusion or brief summary at the end would also improve your overall response. While the description is mostly clear, a few stages, such as the "evaporating" and "centrifuge" steps, could be explained in more detail.
+
+### Suggestions for Improvement:
+1. **Clarify sentence structure**: Avoid awkward phrasing and grammatical errors.  
+   - Example: "It takes 12 to 18 months for sugar cane to fully grow before being harvested" is more precise than "it took 12 to 18 months for a sugar cane to fully grown for harvesting."
+   
+2. **Expand and clarify stages**: Provide more detail for complex steps such as "centrifuging" and "evaporation" to give a more thorough overview.  
+   - Example: "During the centrifuge process, the sugar syrup is spun rapidly, separating the sugar crystals from the remaining liquid."
+
+3. **Improve vocabulary**: Use more varied synonyms and accurate terms to avoid repetition and minor errors.  
+   - Example: Instead of repeatedly using "syrup," try "liquid form" or "concentrated solution."
+
+4. **Conclude the process**: A brief concluding sentence summarizing the whole process would strengthen the essay.  
+   - Example: "Thus, sugar is produced through a series of steps, from cultivation to refining, before it is ready for consumption."
+
+### High-Band Vocabulary for this Topic:
+- Refining process
+- Agricultural machinery
+- Centrifugal force
+- Filtration
+- Concentrated syrup
+- Extraction
+- Crystallization process
