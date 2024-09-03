@@ -1,0 +1,83 @@
+Cambridge 16 - Test 3
+Writing - Task 1
+
+Q:
+The plans below show the site of an airport now and how it will look after redevelopment next year.
+Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+
+Write at least 150 words.
+
+=====================================================================
+
+My Answer :
+
+The illustrated plans compare the present map of Southwest Airport and its future plans for renovation next year.
+
+At the overall first glance, it is evident that the new development will improve the facility significantly, expanding more gates for passengers with sky train implemenation and other new functional facilities.
+
+To describe in detail, the current airport is simple with two halls, one for departures and another for arrivals. Departures hall is composed of Security Passport Control and a check-in, along with a coffee shop, while Arrivals hall include only Passport Control Customs. Both hall is attached to the chamber of 8 gates for exit and entrace to airplanes in which passengers need to walk.
+
+The designed structure for the airport development outlines improvements starting from one extra double-door entrances and exits to Departures and Arrivals Halls. An additional facility implemented in the Departures hall will be bag drop for handling bags of passengers. On the other hand, a new cafe will be open in the arrivals hall, and an ATM and Car Hire facilities will be established there too. After passing the security passport control for departure, new shops will be opened in the chamber and the next chamber will lead you to appropriate gates among 18, via fresh new sky trains.
+
+(212 words)
+======================================================================
+
+GPT Assessment :
+
+### Overall Band Score: 6.5
+
+### 1. Coherence and Cohesion: 6
+- **Structure your answers in logical paragraphs**: ✔
+- **One main idea per paragraph**: ✔
+- **Include an introduction and conclusion**: ✔ (Brief but effective conclusion at the end)
+- **Support main points with an explanation and then an example**: ✘ (The ideas are described but could benefit from specific examples or deeper explanations)
+- **Use cohesive linking words accurately and appropriately**: ✔ (Examples: "On the other hand," "while," "after")
+- **Vary your linking phrases using synonyms**: ✘ (There is some repetition of structure, such as "The current airport... the designed structure...")
+
+**Feedback**: The essay is generally well-structured with a clear comparison between the two plans. However, more variation in linking phrases and examples could strengthen the overall flow. More detailed comparisons could also be drawn.
+
+### 2. Lexical Resource: 6
+- **Try to vary your vocabulary using accurate synonyms**: ✔ (Good use of synonyms like "renovation," "improve," "implement")
+- **Use less common question-specific words that accurately convey meaning**: ✘ (The vocabulary is accurate but not very sophisticated. More specific terms like "concourse," "facilities," and "expansion" could be used)
+- **Check your work for spelling and word formation mistakes**: ✔ (No major spelling errors, but some phrases like "new functional facilities" feel awkward)
+
+**Feedback**: Vocabulary is clear and functional, though a more varied range of words and some less common words would improve the score. Phrases like "chamber" could be replaced with more accurate terminology, such as "gates area."
+
+### 3. Grammatical Range: 6
+- **Use a variety of complex and simple sentences**: ✔ (There is a mixture of sentence structures)
+- **Check your writing for errors**: ✘ (Some grammatical issues: "Both hall is attached" should be "Both halls are attached," and "Departures hall is composed" should be "The departures hall consists of.")
+
+**Feedback**: A decent variety of sentence structures is used, but there are noticeable grammatical mistakes that reduce clarity. More attention to subject-verb agreement and article use would improve the score.
+
+### 4. Task Achievement: 7
+- **Answer all parts of the question**: ✔ (Both the current layout and future development are described)
+- **Present relevant ideas**: ✔
+- **Fully explain these ideas**: ✔ (Details about the current and future layout are clear)
+- **Support ideas with relevant, specific examples**: ✘ (Although the descriptions are detailed, they could benefit from more specific examples, such as why the additional gates or new sky trains are important)
+
+**Feedback**: The task is well-answered with clear descriptions of the changes. However, more specific details or examples of why these changes are significant would enhance the answer.
+
+### High-band Vocabulary:
+- Renovation
+- Expansion
+- Implementation
+- Facilities
+- Departure hall
+- Arrivals hall
+- Security control
+- Bag drop
+- Sky train
+- Car hire
+
+### Suggestions for Improvement:
+1. **Task Achievement**: Add specific details or examples. For example:
+   - "The increase in gates from 8 to 18 will greatly enhance the airport's capacity, allowing for smoother passenger flow during peak travel times."
+   - "The introduction of the sky train eliminates the need for walking long distances to gates, significantly improving passenger convenience."
+
+2. **Grammatical Range**: Correct common mistakes. For instance:
+   - "Both halls are attached to the gate area..."
+   - "The departures hall consists of..."
+
+3. **Lexical Resource**: Use more precise terminology for airport-related topics, such as "concourse" instead of "chamber" or "expansion" instead of "development."
+
+By addressing these areas, you can improve your coherence and cohesion, as well as grammatical range, which will increase your overall score.

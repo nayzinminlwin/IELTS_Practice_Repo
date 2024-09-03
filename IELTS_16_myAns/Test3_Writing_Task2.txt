@@ -1,0 +1,88 @@
+Cambridge 16 - Test 3
+Writing - Task 2
+
+Q:
+Many manufactured food and drink products contain high levels of sugar, which causes many health problems. Sugary products should be made more expensive to encourage people to consume less sugar.
+Do you agree or disagree ?
+
+Give reasons for your answer and include any relevant examples from your own experience and knowledge.
+Write at least 250 words.
+=====================================================================
+
+My Answer :
+
+As we are living in a highly competitive business society, many food and beverage manufacturers are focusing on high calories products that contain excessive sugar, causing the consumers to serious health problems and consequences. At the meantime, people suggest that products with high sugar levels should be assigned with higher price levels in order to make people consume less of these products and sugar.
+
+Setting higher prices to sugary products is a kind of solution to apporach the problem as restricting a child from reaching a specific thing by placing it in a high shelf/place. It will solve the problem more or less, that most of the children would give up achieving what is far out of thier reach and capabilities. 
+
+But on the other hand, I think we have better approaches. Imagine the creativity of childrens, what if a child is commited to get the thing from the upper shelf? He may knock the shelf down, or climb, in both case hurting himself. Moreover, increasement in prices cannot be done in serious scales like it be increased but not double. Right? Some customers will not recognize the price increasement that much and still consume with extra price as they just drop products into their baskets without checking the price every time, and even if price is doubled, some customers will still buy them because they are already obsessed with it as high calories foods and drinks seems to have better tastes than other producuts.
+
+With sugar products, we act exactly the same like children demanding sweets no matter his/her health. Now comes the better approach, the Education. The product manufacturers should advertise innovatively how unhealthy the high calories foods are, and at the same time, appealing the customer to try and taste low-sugar products, which they produced for substitution. For instance, Coca-Cola company, introducing zero sugar coke and marketing it to make it surpass the normal coke sales.
+
+To conclude the argument, I belive better education with innovative advertisement and marketing strategies will outweigh the pricing approach.
+
+(340 words)
+
+===========================================================================
+GPT Assessment :
+
+### Overall Band Score: 6.0
+
+### 1. Coherence and Cohesion: 6
+- **Structure your answers in logical paragraphs**: ✔ (The essay is divided into clear paragraphs with an introduction, body, and conclusion)
+- **One main idea per paragraph**: ✔ (Each paragraph focuses on a different idea)
+- **Include an introduction and conclusion**: ✔ (Both present)
+- **Support main points with an explanation and then an example**: ✘ (Some ideas are supported, but the examples are underdeveloped or lack clarity)
+- **Use cohesive linking words accurately and appropriately**: ✔ (Words like "but," "moreover," and "on the other hand" are used)
+- **Vary your linking phrases using synonyms**: ✘ (There is some repetition, and transitions could be smoother)
+
+**Feedback**: The essay has a clear structure, but some ideas could be more effectively linked or expanded with better examples and explanations. The second body paragraph, in particular, could benefit from more clarity and support for the argument.
+
+### 2. Lexical Resource: 6
+- **Try to vary your vocabulary using accurate synonyms**: ✔ (Words like "consequences," "restricting," and "approaches" are good, but could be improved with more variety)
+- **Use less common question-specific words that accurately convey meaning**: ✘ (Some phrases are awkward, such as "increasement" instead of "increase," "high calories" instead of "high-calorie")
+- **Check your work for spelling and word formation mistakes**: ✘ (There are several spelling mistakes: "apporach" should be "approach," "thier" should be "their," "producuts" should be "products")
+
+**Feedback**: The vocabulary is generally functional, but there are some errors and awkward phrases. More accurate and sophisticated word choice would improve the overall quality.
+
+### 3. Grammatical Range: 5.5
+- **Use a variety of complex and simple sentences**: ✔ (Some sentence variety is present)
+- **Check your writing for errors**: ✘ (There are frequent grammatical errors: "causing the consumers to serious health problems" should be "causing serious health problems for consumers," "increasement" is incorrect, "childrens" should be "children," and "in both case" should be "in both cases")
+
+**Feedback**: The essay contains a range of sentence structures, but many errors in grammar and word choice make it harder to follow. More attention to subject-verb agreement, plural forms, and proper use of articles would help.
+
+### 4. Task Achievement: 6.5
+- **Answer all parts of the question**: ✔ (Both sides of the argument are addressed)
+- **Present relevant ideas**: ✔ (Ideas are presented, though not always well-supported)
+- **Fully explain these ideas**: ✘ (Some ideas, like the shelf analogy, are unclear or not fully developed)
+- **Support ideas with relevant, specific examples**: ✘ (While examples like Coca-Cola's zero-sugar option are given, they could be explained in more depth)
+
+**Feedback**: The task is well-answered, but some of the ideas are not clearly explained. The shelf analogy, for instance, is overly complex and doesn't fully support the point being made. More concrete examples of why raising prices wouldn't work as well as education would strengthen the argument.
+
+### High-band Vocabulary:
+- Competitive business society
+- Excessive sugar
+- Health problems
+- Higher price levels
+- Consumption
+- Substitution
+- Innovative marketing
+- Obsession
+
+### Suggestions for Improvement:
+1. **Task Achievement**: Provide clearer examples and more logical support for your ideas. For example:
+   - "While raising prices might deter some consumers, others may not be affected by small increases. Education campaigns, such as Coca-Cola’s promotion of zero-sugar options, have proven to be more effective in shifting consumer behavior."
+   
+2. **Lexical Resource**: Focus on correcting common spelling and word choice mistakes, and use more sophisticated vocabulary. For instance:
+   - Replace "increasement" with "increase."
+   - Use "high-calorie" instead of "high calories."
+
+3. **Grammatical Range**: Pay more attention to grammar and sentence structure. For example:
+   - "Children’s creativity" instead of "creativity of childrens."
+   - "Increase in prices" instead of "increasement in prices."
+
+### Example Sentences:
+- "Raising the price of sugary products may have a limited effect as some consumers, particularly those with established habits, might not notice minor price changes."
+- "A more effective solution is education, where consumers are made aware of the health risks associated with excessive sugar consumption, combined with the promotion of healthier alternatives."
+
+By making these improvements, your essay will become more coherent, with fewer errors, and you will be able to achieve a higher band score.
